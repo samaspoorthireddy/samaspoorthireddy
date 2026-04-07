@@ -9,10 +9,10 @@ using Flask and SQL. Keen to apply analytical and problem-solving skills to prac
 **Artificial Intelligence Intern — Talent Trek E-Learning Pvt. Ltd.**  
 Jan 2026 – Mar 2026  
 
-• Built and tested machine learning models using Python for basic classification and prediction tasks
-• Prepared datasets by handling missing values and organizing features for better model performance
-• Compared results of different algorithms and identified the most effective approach
-• Gained practical understanding of applying machine learning techniques on real-world data
+- Built and tested machine learning models using Python for basic classification and prediction tasks
+- Prepared datasets by handling missing values and organizing features for better model performance
+- Compared results of different algorithms and identified the most effective approach
+- Gained practical understanding of applying machine learning techniques on real-world data
 
 ---
 

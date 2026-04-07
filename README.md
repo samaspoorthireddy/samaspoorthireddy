@@ -33,8 +33,15 @@ Jan 2026 – Mar 2026
 ---
 
 ## 🌐 Socials
-- LinkedIn: https://linkedin.com/in/spoorthireddy08
-- Email: samaspoorthireddy08@gmail.com  
+
+<p align="left">
+  <a href="https://linkedin.com/in/spoorthireddy08" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:samaspoorthireddy08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 

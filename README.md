@@ -1,6 +1,8 @@
 # 💫 About Me
 Enthusiastic AI and Machine Learning aspirant with experience in building predictive models and working with real-world
-datasets using Python. Familiar with data preprocessing, text-based feature extraction, and develop
+datasets using Python. Familiar with data preprocessing, text-based feature extraction, and developing web applications
+using Flask and SQL. Keen to apply analytical and problem-solving skills to practical applications.
+
 ---
 
 ## 💼 Experience

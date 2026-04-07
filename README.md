@@ -5,7 +5,7 @@ using Flask and SQL. Keen to apply analytical and problem-solving skills to prac
 
 ---
 
-## 💼 Experience
+## Experience
 **Artificial Intelligence Intern — Talent Trek E-Learning Pvt. Ltd.**  
 Jan 2026 – Mar 2026  
 
@@ -16,15 +16,15 @@ Jan 2026 – Mar 2026
 
 ---
 
-## 🚀 Projects
+## Key Projects
 
-### 🔹 On-Demand Service Booking Platform
+### On-Demand Service Booking Platform
 • Designed and developed a web-based platform for booking home services using Flask and front-end technologies
 • Implemented secure user authentication and managed service bookings with database integration
 • Built interactive features for displaying available services and handling booking requests dynamically
 • Deployed the application on PythonAnywhere for online access
 
-### 🔹 AI-Powered Personal Finance Assistant
+### AI-Powered Personal Finance Assistant
 • Developed an expense analysis model that classifies user transactions with an accuracy of around 88-90%
 • Performed data cleaning and feature preparation to structure financial data for training
 • Experimented with multiple classification techniques and selected the best-performing model based on evaluation results
@@ -32,7 +32,7 @@ Jan 2026 – Mar 2026
 
 ---
 
-## 🌐 Connect
+## 🌐 Socials
 - LinkedIn: https://linkedin.com/in/spoorthireddy08
 - Email: samaspoorthireddy08@gmail.com  
 

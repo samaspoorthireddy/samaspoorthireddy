@@ -6,7 +6,7 @@ real-world technical challenges
 
 ## Experience
 **Artificial Intelligence Intern — Talent Trek E-Learning Pvt. Ltd.**  
-Jan 2026 – Mar 2026  
+Jan 2026 – May 2026  
 
 - Built and tested machine learning models using Python for basic classification and prediction tasks
 - Prepared datasets by handling missing values and organizing features for better model performance
@@ -61,6 +61,7 @@ Jan 2026 – Mar 2026
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
 </p>
 
 ### Data & AI

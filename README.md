@@ -1,7 +1,6 @@
 # 💫 About Me
-Enthusiastic AI and Machine Learning aspirant with experience in building predictive models and working with real-world
-datasets using Python. Familiar with data preprocessing, text-based feature extraction, and developing web applications
-using Flask and SQL. Keen to apply analytical and problem-solving skills to practical applications.
+B.Tech student specializing in Artificial Intelligence and Machine Learning, with a strong foundation in Python, machine learning, and backend development. Experienced in building practical applications using FastAPI, Flask, REST APIs, and SQL, with exposure to machine learning frameworks and data-driven solutions. Interested in developing reliable, scalable software applications and exploring Generative AI technologies such as RAG, vector databases, and prompt engineering. Focused on applying problem-solving and software engineering skills to 
+real-world technical challenges
 
 ---
 
@@ -18,18 +17,23 @@ Jan 2026 – Mar 2026
 
 ## Key Projects
 
+### Production-Grade URL Shortener & Collaborative Analytics Platform
+- Developed a scalable URL shortening platform using FastAPI and PostgreSQL.
+- Built RESTful APIs for URL creation, redirection, and management.
+- Integrated Redis for caching and Celery for asynchronous background processing.
+- Implemented SQLAlchemy for efficient database operations and structured backend development.
+
 ### On-Demand Service Booking Platform
-- Designed and developed a web-based platform for booking home services using Flask and front-end technologies
-- Implemented secure user authentication and managed service bookings with database integration
-- Built interactive features for displaying available services and handling booking requests dynamically
-- Deployed the application on PythonAnywhere for online access
+- Developed a web-based service booking platform using Flask and front-end technologies.
+- Implemented user authentication, service management, and booking workflows with database integration.
+- Built interactive features for service discovery, availability, and booking requests.
+- Deployed the application on PythonAnywhere for web accessibility.
 
 ### AI-Powered Personal Finance Assistant
-- Developed an expense analysis model that classifies user transactions with an accuracy of around 88-90%
-- Performed data cleaning and feature preparation to structure financial data for training
-- Experimented with multiple classification techniques and selected the best-performing model based on evaluation results
-- Utilized clustering methods to group users based on spending behavior and identify meaningful patterns
-
+- Developed a machine learning application to classify user transactions with approximately 88–90% accuracy.
+- Performed data cleaning, preprocessing, and feature engineering to prepare financial data for model training.
+- Evaluated multiple classification algorithms and selected the best-performing model based on relevant evaluation metrics.
+- Applied clustering techniques to identify spending patterns and group users based on financial behavior.
 ---
 
 ## 🌐 Socials
